@@ -10,5 +10,4 @@ class Project
     backer.back_project(self) if @backed_projects != self
   end
 
-
 end #class Project
